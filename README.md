@@ -1,4 +1,4 @@
-#Check out the component:
+# Check out the component:
 ![Alt text](https://github.com/AkshaySingh2005/React-Accordian-Component/blob/main/public/Screenshot%202024-06-30%20132258.png)
 
 # Getting Started with Create React App
